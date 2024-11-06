@@ -91,6 +91,7 @@ def main():
 
     # DELETE an interface
     print("\nPerforming DELETE operation to delete the interface:")
+    
     delete_interface("GigabitEthernet2")
 
 
